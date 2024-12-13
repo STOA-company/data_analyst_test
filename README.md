@@ -56,7 +56,7 @@ products (
 
 ## Part 2: Python 분석 과제
 
-제공된 데이터셋(ecommerce_data.zip)을 사용하여 다음 분석을 수행해주세요:
+git repo에 제공된 데이터셋(ecommerce_data.zip)을 사용하여 다음 분석을 수행해주세요:
 
 ### 1. 데이터 전처리 및 기초 분석
 - 결측치 처리 및 이상치 탐지
